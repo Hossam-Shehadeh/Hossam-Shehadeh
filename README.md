@@ -27,17 +27,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
----
-
-### 🚀 **Projects**
-
-- 🌐 **[Personal Portfolio](#)**: A sleek portfolio showcasing my skills, projects, and achievements.
-- 🤖 **[AI Chatbot](#)**: An interactive chatbot built with Python and natural language processing.
-- 📊 **[Data Dashboard](#)**: A powerful analytics dashboard for visualizing data in real-time.
-
-Check out my [repositories](https://github.com/Hossam-Shehadeh?tab=repositories) for more!
-
----
 
 ### 🌟 **My GitHub Stats**
 
