@@ -35,7 +35,7 @@
 - 🤖 **[AI Chatbot](#)**: An interactive chatbot built with Python and natural language processing.
 - 📊 **[Data Dashboard](#)**: A powerful analytics dashboard for visualizing data in real-time.
 
-Check out my [repositories](https://github.com/HossamShehadeh?tab=repositories) for more!
+Check out my [repositories](https://github.com/Hossam-Shehadeh?tab=repositories) for more!
 
 ---
 
