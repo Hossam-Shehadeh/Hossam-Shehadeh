@@ -43,10 +43,10 @@ Check out my [repositories](https://github.com/Hossam-Shehadeh?tab=repositories)
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=HossamShehadeh&show_icons=true&theme=radical" alt="Hossam's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hossam-Shehadeh&show_icons=true&theme=radical" alt="Hossam's GitHub Stats" width="48%"/>
 
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HossamShehadeh&theme=radical" alt="Hossam's Streak Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hossam-Shehadeh&theme=radical" alt="Hossam's Streak Stats" width="48%"/>
 </div>
 
 ---
