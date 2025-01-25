@@ -27,6 +27,20 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
+<h3 align="left">Organizations and Main Projects:</h3>
+<ul>
+  <li>
+    <a href="https://github.com/Twitter-Streaming-Team13" target="_blank">
+      Twitter Streaming Project 
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/Recommendation-System-ML" target="_blank">
+      Recommendation System (Machine Learning)
+    </a>
+  </li>
+</ul>
+
 
 ### 🌟 **My GitHub Stats**
 
