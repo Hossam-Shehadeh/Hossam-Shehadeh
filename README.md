@@ -1,17 +1,26 @@
 <h1 align="center">Hi there, I'm Hossam Shehadeh 👋</h1>
 <p align="center">
   <b>A Passionate and Innovative Software Engineer</b><br/>
-  🎯 Full-Stack Developer | 🚀 Problem Solver | 🤖 AI Enthusiast
+  🤖 AI Enthusiast | 💻 Developer | 📈 Always Learning
 </p>
 
 ---
 
 ### 👨‍💻 **About Me**
-- 🔭 I’m currently honing my skills in **full-stack development** and exploring cutting-edge technologies.
+- 🔭 I’m currently honing my skills in **software engineering** and exploring cutting-edge technologies.
 - 🌱 I’m diving deeper into **Artificial Intelligence** as part of my Computer Science studies at An-Najah National University.
 - 💡 I enjoy contributing to impactful projects and solving challenging problems.
 - 🛠️ I’m passionate about building **efficient solutions** that make a difference.
 - 💬 Ask me about **web development**, **AI/ML concepts**, or **project management**.
+
+---
+
+### 🧠 **Development Skills**
+- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap
+- **Backend**: Node.js, Express.js, Python
+- **Databases**: MongoDB, MySQL
+- **Tools & Platforms**: Git, GitHub, Docker, Postman, VS Code
+- **Concepts**: RESTful APIs, MVC Architecture, Authentication (JWT), API Validation (Joi)
 
 ---
 
@@ -27,6 +36,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
+---
+
 <h3 align="left">Organizations and Main Projects:</h3>
 <ul>
   <li>
@@ -41,6 +52,7 @@
   </li>
 </ul>
 
+---
 
 ### 🌟 **My GitHub Stats**
 
@@ -71,6 +83,3 @@
 > 🌌 *“I believe that every line of code is a step closer to innovation.”* 🚀
 
 ---
-
-
-
