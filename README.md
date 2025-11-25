@@ -54,18 +54,6 @@
 
 ---
 
-### 🌟 **My GitHub Stats**
-
-<div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Hossam-Shehadeh&show_icons=true&theme=radical" alt="Hossam's GitHub Stats" width="48%"/>
-
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hossam-Shehadeh&theme=radical" alt="Hossam's Streak Stats" width="48%"/>
-</div>
-
----
-
 ### 📫 **Connect with Me**
 <div align="center">
   <a href="mailto:hossam.h.shehadeh@gmail.com">
