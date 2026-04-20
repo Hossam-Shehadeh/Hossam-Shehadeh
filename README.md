@@ -1,76 +1,95 @@
-<h1 align="center">Hi there, I'm Hossam Shehadeh 👋</h1>
+<h1 align="center">Hi 👋, I'm Hossam Shehadeh</h1>
+
+<h3 align="center">
+🚀 AI Engineer | Building Real-World AI Systems  
+</h3>
+
 <p align="center">
-  <b>A Passionate and Innovative Software Engineer</b><br/>
-  🤖 AI Enthusiast | 💻 Developer | 📈 Always Learning
+🧠 LLMs • RAG • AI Agents • Scalable Backends
 </p>
 
 ---
 
-### 👨‍💻 **About Me**
-- 🔭 I’m currently honing my skills in **software engineering** and exploring cutting-edge technologies.
-- 🌱 I’m diving deeper into **Artificial Intelligence** as part of my Computer Science studies at An-Najah National University.
-- 💡 I enjoy contributing to impactful projects and solving challenging problems.
-- 🛠️ I’m passionate about building **efficient solutions** that make a difference.
-- 💬 Ask me about **web development**, **AI/ML concepts**, or **project management**.
+## 👨‍💻 About Me
+
+💡 I’m an AI Engineer focused on building **real-world AI systems**, not just models.
+
+- 🔧 Designing **LLM-based applications** (RAG pipelines, AI agents, multi-agent systems)  
+- ⚙️ Building **scalable backend systems & APIs**  
+- 📊 Developing **data pipelines & intelligent automation systems**  
 
 ---
 
-### 🧠 **Development Skills**
-- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap
-- **Backend**: Node.js, Express.js, Python
-- **Databases**: MongoDB, MySQL
-- **Tools & Platforms**: Git, GitHub, Docker, Postman, VS Code
-- **Concepts**: RESTful APIs, MVC Architecture, Authentication (JWT), API Validation (Joi)
+## 🧠 What I’m Working On
+
+- 🔍 Improving **RAG performance & evaluation**  
+- ⚙️ Comparing **AI pipelines** (LlamaIndex vs custom pipelines)  
+- 🧪 Building **AI apps with real user interaction**  
+- 🚀 Exploring **scalable AI system design**  
 
 ---
 
-### 🛠️ **Tech Stack**
+## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</div>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,react,fastapi,mongodb,mysql,docker,git,github,postman,tailwind" />
+
+</p>
 
 ---
 
-<h3 align="left">Organizations and Main Projects:</h3>
-<ul>
-  <li>
-    <a href="https://github.com/Twitter-Streaming-Team13" target="_blank">
-      Twitter Streaming Project 
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/Recommendation-System-ML" target="_blank">
-      Recommendation System (Machine Learning)
-    </a>
-  </li>
-</ul>
+## 🚀 Featured Projects
+
+### 🧠 AI Systems
+- **RAG Pipeline Experiments**
+  - 📚 Tested on real datasets (books & documents)  
+  - ⚖️ Compared pipelines (LlamaIndex vs custom)  
+
+- **AI Agents Systems**
+  - 🤖 Multi-agent workflows for automation  
 
 ---
 
-### 📫 **Connect with Me**
-<div align="center">
-  <a href="mailto:hossam.h.shehadeh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/hossam-shehadeh">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-   <a href="https://hossam-shehadeh.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
+### 📊 Data & Streaming
+- **Twitter Streaming Analytics**
+  - ⚡ Kafka + Spark NLP + Elasticsearch  
+  - 📈 Real-time sentiment analysis  
 
 ---
 
-### ⚡ **Fun Fact**
+## 📈 Currently Learning
 
-> 🌌 *“I believe that every line of code is a step closer to innovation.”* 🚀
+- 🧠 Advanced LLM systems & evaluation  
+- 🏗️ System Design for AI applications  
+- ⚙️ Scalable architectures & MLOps  
 
 ---
+
+## 🌐 Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/hossam-shehadeh" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:hossam.h.shehadeh@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+</a>
+</p>
+
+---
+
+## ⚡ Philosophy
+
+<p align="center">
+<strong>“Good ideas don’t matter without real execution.” 🚀</strong>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Hossam-Shehadeh&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hossam-Shehadeh&layout=compact" />
+</p>
